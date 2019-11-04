@@ -1,0 +1,44 @@
+{
+    "NAVBAR": {
+        "MAIN": "Main",
+        "SERVICES": "Services",
+        "ABOUT": "About",
+        "CONTACTS": "Contacts"
+    },
+    "LANDING": {
+        "WHO": "Who we are?",
+        "DESCRIPTION": "The engineering and architectural bureau Main Part Design OÜ was founded in 2016. Our company is specialized in the development of unique architectural solutions, the design of building structures made of metal and wood, as well as the development of applications for BIM and CAD platforms.",
+        "READMORE": "read more.",
+        "WOODENSTRUCTURES": "Design of wooden structures",
+        "DESCRIPTIONWS": "Modular and frame houses. CLT and wide-span structures made of glued wood.",
+        "METALCONSTRUCTIONS": "Design of metal structures",
+        "DESCRIPTIONMC": "Communication and transmission towers. Industrial and civil buildings.",
+        "APPDEV": "Development of plug-ins and applications",
+        "DESCRIPTIONAD": "Development of plug-ins and applications for BIM and FEA platforms: Tekla Structures, Autodesk Revit, Dlubal Rstab, Sap2000, Autodesk Robot.",
+        "EDUCATION":"Training and education",
+        "DESCRIPTIONTE":"Training and education",
+        "PARTNERS": "Our partners",
+        "QUESTIONS": "Do you have questions?",
+        "MSG": "Contact us",
+        "INITIALS": "Name, surname (required)",
+        "EMAIL": "E-mail(required)",
+        "ENTERMSG": "Message...",
+        "SENDMSG": "Send"
+    },
+    "ABOUT": {
+        "ABOUTTITLE": "About",
+        "DESCRIPTIONABOUT": "The engineering and architectural bureau Main Part Design OÜ was founded in 2016.<br> <br> Our company is specialized in the development of unique architectural solutions, the design of building structures made of metal and wood, as well as the development of applications for BIM and CAD platforms.<br> <br> Three engineers, namely Anton Balash, Gennadi Mishihhin and Vsevolod Saroka, were one of the originators of the company.<br> <br>Since the founding of the company, we have successfully implemented a few tens of projects of varying complexity, as well as started cooperation with several regular customers has been established. In our daily operation, we are oriented toward the desires and needs of our customers, use an innovative approach to solving engineering issues, and constantly improve the design principles and tools.<br> <br> We are aimed at providing our customers with quality design services, developing optimal solutions for production while strictly observing the agreed deadlines.",
+        "DESIGNWOODENSTRUCTURES": "Design of wooden structures",
+        "DESCRIPTIONDWS": "<b>• Modular and frame houses</b> – we cooperate with a number of manufacturers focused on the Scandinavian and European markets, develop integrated engineering and architectural solutions, prepare necessary detailed design documentation for production.<br> <b>• CLT and wide-span structures made of glued wood</b> – 3D modeling in the Tekla Structures software using a number of applications specifically developed by our company that that significantly sped up the simulation phase.",
+        "DESIGNMETALCONSTRUCTIONS": "Design of metal structures",
+        "DESCRIPTIONDMC": "<b>• Communication and transmission towers</b> – 3D modeling in the Tekla Structures software using dedicated software.<br> <b>• Industrial and civil buildings based on the BIM technology.</b> Unified environment for the model design, coordination and visualization. Interfacing with packages for structural calculations, 3D modeling and preparation of drawings and reports on its basis."
+    },
+    "APPSTORE": {
+        "PARAGRAPH1": "A set of simple utilities will enhance your ability to edit and create model objects and drawings in the Tekla Structures software.",
+        "LINKTOPARAGRAPH1": "(Free download for non-commercial use)",
+        "PARAGRAPH2": "A package of tools for the effective modeling of connections of wooden structures. The logic of setting the connection parameters is perfectly harmonized with the RF JOINTS calculation module of the DLUBAL RFEM software.",
+        "LINKTOPARAGRAPH2": "(Free download for non-commercial use)",
+        "PARAGRAPH3": "Transmission and telecommunication towers. Simple and convenient tools with a high level of automation can increase the performance of modeling transmission and telecommunication towers, reduce the number of costly errors during the manufacture and installation of structures. You will reduce your costs and optimize your production. <br> With TowerTools you will quickly create a 3D tower model, avoiding time-consuming manual work and human errors.",
+        "LINKTOPARAGRAPH3": "(Free download for non-commercial use)"
+    }
+}
