@@ -21,7 +21,7 @@
         "QUESTIONS": "Do you have questions?",
         "MSG": "Contact us",
         "INITIALS": "Name, surname (required)",
-        "EMAIL": "E-mail(required)",
+        "EMAIL": "E-mail (required)",
         "ENTERMSG": "Message...",
         "SENDMSG": "Send"
     },
