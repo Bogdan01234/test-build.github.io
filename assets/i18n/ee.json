@@ -1,0 +1,59 @@
+{
+    "NAVBAR": {
+        "MAIN": "ESILEHT",
+        "SERVICES": "TEENUSED",
+        "ABOUT": "MEIST",
+        "CONTACTS": "KONTAKT"
+    },
+    "LANDING": {
+        "WHO": "Kes me oleme?",
+        "DESCRIPTION": "Inseneri- ja arhitektuuribüroo «Main Part Design OÜ» asutati 2016 aastal. Ettevõte spetsialiseerub unikaalsete arhitektuursete lahenduste väljatöötamisele, metallist ja puidust ehituskonstruktsioonide projekteerimisele ning samuti ka «BIM» ja «CAD» platvormide rakenduste arendamisele.",
+        "READMORE": "loe rohkem.",
+        "WOODENSTRUCTURES": "Puitkonstruktsioonide Projekteerimine",
+        "DESCRIPTIONWS": "Moodul- ja karkassmajad. CLT ja suureavalised konstruktsioonid liimpuidust.",
+        "METALCONSTRUCTIONS": "Metallkonstruktsioonide projekteerimine",
+        "DESCRIPTIONMC": "Kommunikatsiooni- ja ülekandetornid. Tööstus ja tsiviil ehitised.",
+        "APPDEV": "Rakenduste ja aplikatsioonide väljatöötamine",
+        "DESCRIPTIONAD": "Rakenduste ja aplikatsioonide väljatöötamine „BIM“ ja „FEA“ platformide jaoks: Tekla Structures, Autodesk Revit, Dlubal Rstab, Sap2000, Autodesk Robot.",
+        "EDUCATION":"Koolitus ja haridus",
+        "DESCRIPTIONTE":"Koolitus ja haridus",
+        "PARTNERS": "Meie Partnerid",
+        "QUESTIONS": "Kas Teil on küsimusi?",
+        "MSG": "Kontakteeruge meiega",
+        "INITIALS": "Nimi",
+        "EMAIL": "E-mail(required)",
+        "ENTERMSG": "Küsimus...",
+        "SENDMSG": "Saada sõnum"
+    },
+    "ABOUT": {
+        "ABOUTTITLE": "Lühiinformatsioon",
+        "DESCRIPTIONABOUT": "nseneri- ja arhitektuuribüroo «Main Part Design OÜ» asutati 2016 aastal. Ettevõte spetsialiseerub unikaalsete arhitektuursete lahenduste väljatöötamisele, metallist ja puidust ehituskonstruktsioonide projekteerimisele ning samuti ka «BIM» ja «CAD» platvormide rakenduste arendamisele. Ettevõtte asutamisest alates oleme realiseerinud kümneid erineva raskusastmega projekte, mille tulemusena on tänaseks välja kujunenud partnerlus mitmete püsiklientidega. Põhimõtted, millest igapäevaselt lähtume on: <br>• tellija soovid ja vajadused <br>• innovaatiline lähenemine tehniliste ülesannete lahendamisel <br>• projekteerimise põhimõtete ja tööriistade pidev täiendamine. Meie missiooniks on klientidele kvaliteetse projekteerimisteenuse osutamine, optimaalsete tootmislahenduste väljatöötamine ja kokkulepitud tähtaegadest kinnipidamine.",
+        "DESIGNWOODENSTRUCTURES": "Design of wooden structures",
+        "DESCRIPTIONDWS": "<b>• Moodul- ja karkassmajad </b> – teeme koostööd hulga tootjatega, kes on orienteeritud Skandinaavia ja Euroopa turgudele, töötame välja kompleksseid insenertehnilisi ja arhitektuurilahendusi ning valmistame ette tootmiseks vajaliku dokumentatsiooni.<br> <b>• CLT ja suureavalised liimpuidust konstruktsioonid</b> – 33D modelleerimine „Tekla Structures“ tarkvaraga. Seejuures kasutame mitmeid meie enda poolt väljatöötatud rakendusi (plug-in/add-in), mis võimaldavad modelleerimist kordades kiirendada.",
+        "DESIGNMETALCONSTRUCTIONS": "Metallkonstruktsioonide projekteerimine",
+        "DESCRIPTIONDMC": "<b>• Elektri- ja sidemastid </b> – 3D modelleerimine “Tekla Structures” tarkvaras spetsiaalselt väljatöötatud lisarakenduste kasutamisega.<br> <b>• Tööstus- ja tsiviilhooned rakendades BIM tehnoloogiat.</b> Unifitseeritud töökeskkond, mudeli koordineerimine ja visualiseerimine. Mudeli sidumine teiste rakendustega konstruktsioonide arvutamiseks, 3D-mudeli kujundamiseks ja selle põhjal jooniste ning aruannete saamiseks.",
+        "AUTOMATIONDESIGNWORK": "Projekteerimistööde automatiseerimine",
+        "DESCRIPTIONADW":"<b>•</b> Pluginate ja rakenduste arendamine BIM and FEA platvormidele<br> <b>•</b> TProjekteerimisprotsesside efektiivsuse hindamine, automatiseerimiskava väljatöötamine"
+    },
+    "APPSTORE": {
+        "PARAGRAPH1": "Lihtsate rakenduste kogumik laiendab mudeli redigeerimise ning objektide ja jooniste loomise võimalusi programmis Tekla Structures. (Tasuta allalaadimine mittekaubanduslikuks kasutamiseks)",
+        "LINKTOPARAGRAPH1": "(Free download for non-commercial use)",
+        "PARAGRAPH2": "A package of tools for the effective modeling of connections of wooden structures. The logic of setting the connection parameters is perfectly harmonized with the RF JOINTS calculation module of the DLUBAL RFEM software.",
+        "LINKTOPARAGRAPH2": "(Free download for non-commercial use)",
+        "PARAGRAPH3": "Elektri- ja sidemastid. Lihtsad ja käepärased kõrge automatiseerimise tasemega tööriistad võimaldavad tõsta elektri- ja sidemastide modelleerimise produktiivsust ning vähendada kulukate vigade hulka konstruktsioonide valmistamisel ja monteerimisel. Vähendate oma kulusid ja optimeerite oma tootmist. <br> TowerTools abiga saate kiiresti luua torni 3D mudeli, millega väldite töömahukat käsitööd ja inimvigu.",
+        "LINKTOPARAGRAPH3": "(Free download for non-commercial use)"
+    },
+	"DEVELOPMENT": {
+        "TITLE": "Development",
+        "PARAGRAPH1": "Arendusteenused ehitussektorile",
+        "DESCRIPTIONTOP1": "Ehitussektoris edu saavutamiseks ei piisa tänases ärimaailmas ainult vooluga kaasa minemisest vaid tuleb arvestada tellijate järjest nõudlikemate soovidega. See nõuab tööprotsesside kohandamist sarnaselt Šveitsi kella toimimisele. Teie tööprotsesse järgiv automatiseerimiseks tehtav ühekordne investeering annab teile järgmised eelised: <br> <br><b>•</b> Ülesannete täitmise kiiruse ja tõhususe mitmekordne suurendamine <br><b>•</b> Rutiinsete ülesannete minimeerimine, mida saab lahendada rakenduste abil <br><b>•</b> Inimvea teguri kõrvaldamine <br><b>•</b> Тöökohtade optimeerimine <br><b>•</b> Тöökohtade optimeerimine <br><b>•</b> Ettevõtte konkurentsivõime tõstmine. <br>Meie spetsialistidel on ehituse ja BIM-platvormide arendamise valdkonnas ainulaadne pikaajaline kogemus järgmiste tarkvaradega: <br> <br><b>•</b> Tekla Structures <br><b>•</b> Autodesk Revit <br><b>•</b> Autodesk Robot <br><b>•</b> Dlubal Rrem.<br>о <br>Main part Design OÜ <br> <br><b>•</b> Pakume „APP Store“-s mitmeid kohe kasutusvalmis olevaid tooteid <br><b>•</b> Töötame ette nähtud aja jooksul välja vajaliku detailsusega unikaalsed lahendused <br><b>•</b> Hindame teie projekteerimisprotsesside efektiivsust ning töötame välja automatiseerimiskava <br><b>•</b> Pakume välja tööjõukulude optimeerimise kava",		
+        "PARAGRAPH2": "",
+        "DESCRIPTIONTOP2": ""},
+    "EDUCATION": {
+        "TITLE": "Koolitus ja haridus",
+        "PARAGRAPH": "Tarkvara kasutajate personaalne tugi ja koolitus",
+        "DESCRIPTION1": "Pakume oma klientidele meie poolt välja töötatud tarkvara osas igakülgset väljaõpet ja tugiteenuseid.. Lahendame teie tarkvara kasutamisega seotud küsimused",
+        "DESCRIPTION2": "Kirjutage oma murest ja meie spetsialistid aitavad teil lahendust leida.",
+        "SUPPORT": "Support service:"
+    }
+}
