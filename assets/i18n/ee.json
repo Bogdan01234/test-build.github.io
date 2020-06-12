@@ -55,5 +55,11 @@
         "DESCRIPTION1": "Pakume oma klientidele meie poolt välja töötatud tarkvara osas igakülgset väljaõpet ja tugiteenuseid.. Lahendame teie tarkvara kasutamisega seotud küsimused",
         "DESCRIPTION2": "Kirjutage oma murest ja meie spetsialistid aitavad teil lahendust leida.",
         "SUPPORT": "Support service:"
+    },
+    "CONTACTS": {
+        "TITLE": "Main Part Design OÜ",
+        "DESCRIPTION": "<b>KMKR:</b> EE101954550 <br> <b>Registrikood:</b> 14097204<br> <br> <b>Telefon:</b> <a href='tel: +372 555 70694'> +372 555 70694</a><br> <b>Aadress:</b> Tuukri 19, 10152, Tallinn<br> <b>Swedbank</b> EE982200221064926789<br> <b>E-mail:</b>",
+        "LINK1": "<a href='mailto:support@mainpart.eu'> support@mainpart.eu</a>",
+        "LINK2": "<a href='mailto:info@mainpart.eu'> info@mainpart.eu</a>"
     }
 }

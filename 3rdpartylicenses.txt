@@ -64,6 +64,8 @@ MIT
 
 @angular/fire/firestore
 
+@angular/fire/functions
+
 @angular/forms
 MIT
 
@@ -441,6 +443,8 @@ firebase/app
 firebase/auth
 
 firebase/firestore
+
+firebase/functions
 
 hammerjs
 MIT
