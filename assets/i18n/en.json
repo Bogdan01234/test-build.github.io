@@ -27,7 +27,7 @@
     },
     "ABOUT": {
         "ABOUTTITLE": "About",
-        "DESCRIPTIONABOUT": "The engineering and architectural bureau Main Part Design OÜ was founded in 2016.<br> <br> Our company is specialized in the development of unique architectural solutions, the design of building structures made of metal and wood, as well as the development of applications for BIM and CAD platforms.<br> <br> These applications are created in order to automate the design process and thereby increase the efficiency and the quality of design.<br> <br>Since the company foundation several dozens of projects of various complexity have been successfully implemented, also the cooperation with several regular customers has been established.<br> <br>In our daily work we are based on the client requirements, keep our promises, try to meet our clients’ expectations, use an innovative approach in solving the tasks assigned to us and constantly improve the principles and tools of construction design.<br> <br>Our aim is to provide our partners with the design and automation services of high quality, with optimal solutions for production within the stipulated timescale.",
+        "DESCRIPTIONABOUT": "The engineering and architectural bureau <b>Main Part Design OÜ»</b> was founded in 2016.<br> <br> Our company is specialized in the development of unique architectural solutions, the design of building structures made of metal and wood, as well as the development of applications for <b>BIM</b> and <b>CAD</b> platforms.<br> <br> These applications are created in order to automate the design process and thereby increase the efficiency and the quality of design.<br> <br>Since the company foundation several dozens of projects of various complexity have been successfully implemented, also the cooperation with several regular customers has been established.<br> <br>In our daily work we are based on the client requirements, keep our promises, try to meet our clients’ expectations, use an innovative approach in solving the tasks assigned to us and constantly improve the principles and tools of construction design.<br> <br>Our aim is to provide our partners with the design and automation services of high quality, with optimal solutions for production within the stipulated timescale.",
         "DESIGNWOODENSTRUCTURES": "Design of wooden structures",
         "DESCRIPTIONDWS": "<b>• Modular and frame houses</b> – we work with a number of manufacturers oriented to Scandinavian and European markets, developing integral engineering and architectural solutions, preparing documentation necessary for the production.<br> <b>• CLT and wide-span structures made of glued wood</b> – 3D modeling in the program «Tekla structures» using a number of self-developed applications accelerating the modeling phase.",
         "DESIGNMETALCONSTRUCTIONS": "Design of metal structures",
@@ -43,19 +43,40 @@
         "PARAGRAPH3": "Transmission and telecommunication towers. Simple and convenient tools with a high level of automation can increase the performance of modeling transmission and telecommunication towers, reduce the number of costly errors during the manufacture and installation of structures. You will reduce your costs and optimize your production. <br> With TowerTools you will quickly create a 3D tower model, avoiding time-consuming manual work and human errors. <br> <br> Cost - 399€",
         "LINKTOPARAGRAPH3": "(Free download for non-commercial use)",
         "PARAGRAPH4": "Plugins for steel constructions. <br> <br> Cost - 139€",
-        "DETAILS": "More details"
+        "DETAILS": "More details",
+		"BUY": "Buy",
+        "PAY": "Pay",
+        "ADDPAYDATA": "Credit card",
+        "RECEIVE": "Download",
+        "LOGINREGISTER": "Sign in/ Sign up"				
     },
 	"DEVELOPMENT": {
         "TITLE": "Development",
         "PARAGRAPH1": "Development services for the building sector",
-        "DESCRIPTIONTOP1": "It’s not enough to go with the flow to be successful in the building industry in the current business environment, but necessary to take into account the realities dictated by the customer's high requirements. This requires adjusting of the working process in the way similar to the Swiss watch mechanism work. A one-time investment in the automation of the design process based on your needs will give you the following advantages: <br> <br><b>•</b> Multiple increase in speed and efficiency of tasks execution <br><b>•</b> Minimizing of the routine tasks, which can be solved by using applications <br><b>•</b> Elimination of human error factor <br><b>•</b> Job losses <br><b>•</b> Savings on staff training <br><br> Improving the competitiveness of the company. Our specialists have a unique long-term experience in the field of construction and development of the software for the following BIM platforms: <br> <br><b>•</b> Tekla Structures <br><b>•</b> Autodesk Revit <br><b>•</b> Autodesk Robot <br><b>•</b> Dlubal Rrem. <br> <br>Main part Design OÜ <br> <br><b>•</b> Will propose a range of ready-to-use products from APP-store <br><b>•</b> Will develop unique solutions of any complexity within the stipulated time frame <br><b>•</b> Will assess the effectiveness of your construction design and work out an automation plan <br><b>•</b> Will propose labor input optimization" ,		
-        "PARAGRAPH2": "Улучшите производительность и автоматизируйте свою работу в Tekla Structures.",
-        "DESCRIPTIONTOP2": "Our development services include helper applications, plugins, and more for Tekla Structures. Using the Tekla Open API programming interface, we develop tools to increase the productivity of your design and production.."},
+        "DESCRIPTIONTOP1": "It’s not enough to go with the flow to be successful in the building industry in the current business environment, but necessary to take into account the realities dictated by the customer's high requirements. This requires adjusting of the working process in the way similar to the Swiss watch mechanism work. A one-time investment in the automation of the design process based on your needs will give you the following advantages: <br> <br><b>•</b> Multiple increase in speed and efficiency of tasks execution <br><b>•</b> Minimizing of the routine tasks, which can be solved by using applications <br><b>•</b> Elimination of human error factor <br><b>•</b> Job losses <br><b>•</b> Savings on staff training <br><b>•</b> Improving the competitiveness of the company <br><br> Our specialists have a unique long-term experience in the field of construction and development of the software for the following BIM platforms: <br> <br><b>•</b> Tekla Structures <br><b>•</b> Autodesk Revit <br><b>•</b> Autodesk Robot <br><b>•</b> Dlubal Rrem <br> <br>Main part Design OÜ <br> <br><b>•</b> Will propose a range of ready-to-use products from APP-store <br><b>•</b> Will develop unique solutions of any complexity within the stipulated time frame <br><b>•</b> Will assess the effectiveness of your construction design and work out an automation plan <br><b>•</b> Will propose labor input optimization" ,		
+        "PARAGRAPH2": "",
+        "DESCRIPTIONTOP2": ""},
     "EDUCATION": {
         "TITLE": "Training and education",
         "PARAGRAPH": "Personalised support and training for software users",
         "DESCRIPTION1": "We provide our clients with comprehensive training and support services for the software that we develop. We will resolve issues regarding the use of your software",
         "DESCRIPTION2": "Write about your problem and our specialists will help you with a solution.",
         "SUPPORT": "Support service:"
+    },
+	"CONTACTS": {
+        "TITLE": "Main Part Design OÜ",
+        "DESCRIPTION": "<b>KMKR:</b> EE101954550 <br> <b>Registrikood:</b> 14097204<br> <br> <b>Telefon:</b> <a href='tel: +372 555 70694'> +372 555 70694</a><br> <b>Aadress:</b> Tuukri 19, 10152, Tallinn<br> <b>LHV:</b> EE547700771003059057<br> <b>E-mail:</b>",
+        "LINK1": "<a href='mailto:support@mainpart.eu'> support@mainpart.eu</a>",
+        "LINK2": "<a href='mailto:info@mainpart.eu'> info@mainpart.eu</a>"
+    },	
+    "LOGIN": {
+        "TITLE": "Sign in",
+        "PASSWORD": "PASSWORD",
+        "LOGININ": "Sign in",
+        "ACCOUNT": "CREATE AN ACCOUNT"
+    },
+    "REGISTRATION": {
+        "TITLE": "Sign up",
+        "RETURN": "Previous"
     }
 }
