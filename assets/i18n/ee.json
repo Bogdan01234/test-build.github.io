@@ -21,7 +21,7 @@
         "QUESTIONS": "Kas Teil on küsimusi?",
         "MSG": "Kontakteeruge meiega",
         "INITIALS": "Nimi",
-        "EMAIL": "E-mail(required)",
+        "EMAIL": "E-mail(kohustuslik)",
         "ENTERMSG": "Küsimus...",
         "SENDMSG": "Saada sõnum"
     },
@@ -33,27 +33,27 @@
         "DESIGNMETALCONSTRUCTIONS": "Metallkonstruktsioonide projekteerimine",
         "DESCRIPTIONDMC": "<b>• Elektri- ja sidemastid </b> – 3D modelleerimine “Tekla Structures” tarkvaras spetsiaalselt väljatöötatud lisarakenduste kasutamisega.<br> <b>• Tööstus- ja tsiviilhooned rakendades BIM tehnoloogiat.</b> Unifitseeritud töökeskkond, mudeli koordineerimine ja visualiseerimine. Mudeli sidumine teiste rakendustega konstruktsioonide arvutamiseks, 3D-mudeli kujundamiseks ja selle põhjal jooniste ning aruannete saamiseks.",
         "AUTOMATIONDESIGNWORK": "Projekteerimistööde automatiseerimine",
-        "DESCRIPTIONADW":"<b>•</b> Pluginate ja rakenduste arendamine BIM and FEA platvormidele<br> <b>•</b> Projekteerimisprotsesside efektiivsuse hindamine, automatiseerimiskava väljatöötamine"
+        "DESCRIPTIONADW":"<b>•</b> Pluginate ja rakenduste arendamine BIM and FEA platvormidele (<a href='/#/app-dev/app-store'>App Store</a>) <br> <b>•</b> Projekteerimisprotsesside efektiivsuse hindamine, automatiseerimiskava väljatöötamine"
     },
     "APPSTORE": {
         "PARAGRAPH1": "Lihtsate rakenduste kogumik laiendab mudeli redigeerimise ning objektide ja jooniste loomise võimalusi programmis Tekla Structures. (Tasuta allalaadimine mittekaubanduslikuks kasutamiseks)",
         "LINKTOPARAGRAPH1": "(Free download for non-commercial use)",
-        "PARAGRAPH2": "Tööriistade pakett puitkonstruktsioonide liidete efektiivseks modelleerimiseks. Liidete parameetrite määramise loogika ühildub täpselt „DLUBAL RFEM“ tarkvara arvutusmooduliga „RF JOINTS“. (Tasuta allalaadimine mittekaubanduslikuks kasutamiseks)",
+        "PARAGRAPH2": "Tööriistade pakett puitkonstruktsioonide liidete efektiivseks modelleerimiseks. Liidete parameetrite määramise loogika ühildub täpselt „DLUBAL RFEM“ tarkvara arvutusmooduliga „RF JOINTS“. (Tasuta allalaadimine mittekaubanduslikuks kasutamiseks) <br> <br> Hind - 139€",
         "LINKTOPARAGRAPH2": "(Free download for non-commercial use)",
         "PARAGRAPH3": "Elektri- ja sidemastid. Lihtsad ja käepärased kõrge automatiseerimise tasemega tööriistad võimaldavad tõsta elektri- ja sidemastide modelleerimise produktiivsust ning vähendada kulukate vigade hulka konstruktsioonide valmistamisel ja monteerimisel. Vähendate oma kulusid ja optimeerite oma tootmist. <br> TowerTools abiga saate kiiresti luua torni 3D mudeli, millega väldite töömahukat käsitööd ja inimvigu. <br>  <br> Hind - 399€",
         "LINKTOPARAGRAPH3": "(Free download for non-commercial use)",
 		"PARAGRAPH4": "Pluginad teraskonstruktsioonide  modeleerimiseks. <br> <br> Hind - 139€",
-        "DETAILS": "More details",
-		"BUY": "Buy",
-        "PAY": "Pay",
+        "DETAILS": "Vaata täpsemalt",
+		"BUY": "Osta",
+        "PAY": "Maksma",
         "ADDPAYDATA": "Credit card",
-        "RECEIVE": "Download",
-        "LOGINREGISTER": "Sign in/ Sign up"		
+        "RECEIVE": "Lae alla",
+        "LOGINREGISTER": "Logi sisse/ Registreeri"		
     },
 	"DEVELOPMENT": {
         "TITLE": "Development",
         "PARAGRAPH1": "Arendusteenused ehitussektorile",
-        "DESCRIPTIONTOP1": "Ehitussektoris edu saavutamiseks ei piisa tänases ärimaailmas ainult vooluga kaasa minemisest vaid tuleb arvestada tellijate järjest nõudlikemate soovidega. See nõuab tööprotsesside kohandamist sarnaselt Šveitsi kella toimimisele. Teie tööprotsesse järgiv automatiseerimiseks tehtav ühekordne investeering annab teile järgmised eelised: <br> <br><b>•</b> Ülesannete täitmise kiiruse ja tõhususe mitmekordne suurendamine <br><b>•</b> Rutiinsete ülesannete minimeerimine, mida saab lahendada rakenduste abil <br><b>•</b> Inimvea teguri kõrvaldamine <br><b>•</b> Тöökohtade optimeerimine <br><b>•</b> Тöökohtade optimeerimine <br><b>•</b> Ettevõtte konkurentsivõime tõstmine <br> <br> Meie spetsialistidel on ehituse ja BIM-platvormide arendamise valdkonnas ainulaadne pikaajaline kogemus järgmiste tarkvaradega: <br> <br><b>•</b> Tekla Structures <br><b>•</b> Autodesk Revit <br><b>•</b> Autodesk Robot <br><b>•</b> Dlubal Rrem<br> <br>Main part Design OÜ <br> <br><b>•</b> Pakume „APP Store“-s mitmeid kohe kasutusvalmis olevaid tooteid <br><b>•</b> Töötame ette nähtud aja jooksul välja vajaliku detailsusega unikaalsed lahendused <br><b>•</b> Hindame teie projekteerimisprotsesside efektiivsust ning töötame välja automatiseerimiskava <br><b>•</b> Pakume välja tööjõukulude optimeerimise kava",		
+        "DESCRIPTIONTOP1": "Ehitussektoris edu saavutamiseks ei piisa tänases ärimaailmas ainult vooluga kaasa minemisest vaid tuleb arvestada tellijate järjest nõudlikemate soovidega. See nõuab tööprotsesside kohandamist sarnaselt Šveitsi kella toimimisele. Teie tööprotsesse järgiv automatiseerimiseks tehtav ühekordne investeering annab teile järgmised eelised: <br> <br><b>•</b> Ülesannete täitmise kiiruse ja tõhususe mitmekordne suurendamine <br><b>•</b> Rutiinsete ülesannete minimeerimine, mida saab lahendada rakenduste abil <br><b>•</b> Inimvea teguri kõrvaldamine <br><b>•</b> Тöökohtade optimeerimine <br><b>•</b> Тöökohtade optimeerimine <br><b>•</b> Ettevõtte konkurentsivõime tõstmine <br> <br> Meie spetsialistidel on ehituse ja BIM-platvormide arendamise valdkonnas ainulaadne pikaajaline kogemus järgmiste tarkvaradega: <br> <br><b>•</b> Tekla Structures <br><b>•</b> Autodesk Revit <br><b>•</b> Autodesk Robot <br><b>•</b> Dlubal Rrem<br> <br>Main part Design OÜ <br> <br><b>•</b> Pakume <a href='#/app-dev/app-store'>APP Store</a>-s mitmeid kohe kasutusvalmis olevaid tooteid <br><b>•</b> Töötame ette nähtud aja jooksul välja vajaliku detailsusega unikaalsed lahendused <br><b>•</b> Hindame teie projekteerimisprotsesside efektiivsust ning töötame välja automatiseerimiskava <br><b>•</b> Pakume välja tööjõukulude optimeerimise kava",		
         "PARAGRAPH2": "",
         "DESCRIPTIONTOP2": ""},
     "EDUCATION": {

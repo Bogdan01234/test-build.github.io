@@ -33,12 +33,12 @@
         "DESIGNMETALCONSTRUCTIONS": "Design of metal structures",
         "DESCRIPTIONDMC": "<b>• Communication and transmission towers</b> – 3D modeling in the Tekla Structures software using dedicated software.<br> <b>• Industrial and civil buildings based on the BIM technology.</b> A single environment for the design, coordination and visualization of the model. Interfaces with packages for structural analysis, the formation of a 3D model and obtaining drawings and reports on its basis.",
         "AUTOMATIONDESIGNWORK": "Automation of the design work",
-        "DESCRIPTIONADW":"<b>•</b> Plugin and application development for BIM and FEA platforms<br> <b>•</b> The assess of the effectiveness of your construction design, working out an automation plan"
+        "DESCRIPTIONADW":"<b>•</b> Plugin and application development for BIM and FEA platforms (<a href='/#/app-dev/app-store'>App Store</a>) <br> <b>•</b> The assess of the effectiveness of your construction design, working out an automation plan"
     },
     "APPSTORE": {
         "PARAGRAPH1": "A set of simple utilities will enhance your ability to edit and create model objects and drawings in the Tekla Structures software.",
         "LINKTOPARAGRAPH1": "(Free download for non-commercial use)",
-        "PARAGRAPH2": "A package of tools for the effective modeling of connections of wooden structures. The logic of setting the connection parameters is perfectly harmonized with the RF JOINTS calculation module of the DLUBAL RFEM software.",
+        "PARAGRAPH2": "A package of tools for the effective modeling of connections of wooden structures. The logic of setting the connection parameters is perfectly harmonized with the RF JOINTS calculation module of the DLUBAL RFEM software. <br> <br> Cost - 139€",
         "LINKTOPARAGRAPH2": "(Free download for non-commercial use)",
         "PARAGRAPH3": "Transmission and telecommunication towers. Simple and convenient tools with a high level of automation can increase the performance of modeling transmission and telecommunication towers, reduce the number of costly errors during the manufacture and installation of structures. You will reduce your costs and optimize your production. <br> With TowerTools you will quickly create a 3D tower model, avoiding time-consuming manual work and human errors. <br> <br> Cost - 399€",
         "LINKTOPARAGRAPH3": "(Free download for non-commercial use)",
@@ -53,7 +53,7 @@
 	"DEVELOPMENT": {
         "TITLE": "Development",
         "PARAGRAPH1": "Development services for the building sector",
-        "DESCRIPTIONTOP1": "It’s not enough to go with the flow to be successful in the building industry in the current business environment, but necessary to take into account the realities dictated by the customer's high requirements. This requires adjusting of the working process in the way similar to the Swiss watch mechanism work. A one-time investment in the automation of the design process based on your needs will give you the following advantages: <br> <br><b>•</b> Multiple increase in speed and efficiency of tasks execution <br><b>•</b> Minimizing of the routine tasks, which can be solved by using applications <br><b>•</b> Elimination of human error factor <br><b>•</b> Job losses <br><b>•</b> Savings on staff training <br><b>•</b> Improving the competitiveness of the company <br><br> Our specialists have a unique long-term experience in the field of construction and development of the software for the following BIM platforms: <br> <br><b>•</b> Tekla Structures <br><b>•</b> Autodesk Revit <br><b>•</b> Autodesk Robot <br><b>•</b> Dlubal Rrem <br> <br>Main part Design OÜ <br> <br><b>•</b> Will propose a range of ready-to-use products from APP-store <br><b>•</b> Will develop unique solutions of any complexity within the stipulated time frame <br><b>•</b> Will assess the effectiveness of your construction design and work out an automation plan <br><b>•</b> Will propose labor input optimization" ,		
+        "DESCRIPTIONTOP1": "It’s not enough to go with the flow to be successful in the building industry in the current business environment, but necessary to take into account the realities dictated by the customer's high requirements. This requires adjusting of the working process in the way similar to the Swiss watch mechanism work. A one-time investment in the automation of the design process based on your needs will give you the following advantages: <br> <br><b>•</b> Multiple increase in speed and efficiency of tasks execution <br><b>•</b> Minimizing of the routine tasks, which can be solved by using applications <br><b>•</b> Elimination of human error factor <br><b>•</b> Job losses <br><b>•</b> Savings on staff training <br><b>•</b> Improving the competitiveness of the company <br><br> Our specialists have a unique long-term experience in the field of construction and development of the software for the following BIM platforms: <br> <br><b>•</b> Tekla Structures <br><b>•</b> Autodesk Revit <br><b>•</b> Autodesk Robot <br><b>•</b> Dlubal Rrem <br> <br>Main part Design OÜ <br> <br><b>•</b> Will propose a range of ready-to-use products from <a href='#/app-dev/app-store'>APP Store</a> <br><b>•</b> Will develop unique solutions of any complexity within the stipulated time frame <br><b>•</b> Will assess the effectiveness of your construction design and work out an automation plan <br><b>•</b> Will propose labor input optimization" ,		
         "PARAGRAPH2": "",
         "DESCRIPTIONTOP2": ""},
     "EDUCATION": {
@@ -65,7 +65,7 @@
     },
 	"CONTACTS": {
         "TITLE": "Main Part Design OÜ",
-        "DESCRIPTION": "<b>KMKR:</b> EE101954550 <br> <b>Registrikood:</b> 14097204<br> <br> <b>Telefon:</b> <a href='tel: +372 555 70694'> +372 555 70694</a><br> <b>Aadress:</b> Tuukri 19, 10152, Tallinn<br> <b>LHV:</b> EE547700771003059057<br> <b>E-mail:</b>",
+        "DESCRIPTION": "<b>NAD:</b> EE101954550 <br> <b>Registration code:</b> 14097204<br> <br> <b>Tel:</b> <a href='tel: +372 555 70694'> +372 555 70694</a><br> <b>Adress:</b> Tuukri 19, 10152, Tallinn<br> <b>LHV:</b> EE547700771003059057<br> <b>E-mail:</b>",
         "LINK1": "<a href='mailto:support@mainpart.eu'> support@mainpart.eu</a>",
         "LINK2": "<a href='mailto:info@mainpart.eu'> info@mainpart.eu</a>"
     },	
