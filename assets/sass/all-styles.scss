@@ -36,3 +36,7 @@
 @import 'all-styles/sections';
 
 @import 'all-styles/responsive';
+
+.custom-panel-cls {
+  overflow-y: auto;
+}

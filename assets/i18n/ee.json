@@ -48,7 +48,17 @@
         "PAY": "Maksma",
         "ADDPAYDATA": "Credit card",
         "RECEIVE": "Lae alla",
-        "LOGINREGISTER": "Logi sisse/ Registreeri"		
+        "LOGINREGISTER": "Logi sisse/ Registreeri",
+        "REQUIRED": "Kohustuslik",
+        "COUNTRY": "Riigi kood (näiteks, US)",
+        "CITY":"Linn",
+        "NAME":"Nimi, Perekonnanimi",
+        "COMPANYNAME":"Firma Nimi",
+        "STATE": "Maakond",
+        "ADDRESS": "Adress",
+        "VAT": "KMKR",
+        "REG": "Registrikood",
+        "MINLENGTH": "sisestage kaks sümboli"	
     },
 	"DEVELOPMENT": {
         "TITLE": "Development",

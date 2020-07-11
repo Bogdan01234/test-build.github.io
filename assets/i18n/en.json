@@ -48,14 +48,25 @@
         "PAY": "Pay",
         "ADDPAYDATA": "Credit card",
         "RECEIVE": "Download",
-        "LOGINREGISTER": "Sign in/ Sign up"				
+        "LOGINREGISTER": "Sign in/ Sign up",
+        "REQUIRED": "Required",
+        "COUNTRY": "A two character country code (for example, US)",
+        "CITY":"City", 
+        "NAME":"First Name, Last Name",
+        "COMPANYNAME":"Company Name",
+        "STATE": "State",
+        "ADDRESS": "Address",
+        "VAT": "Vat number",
+        "REG": "Reg. number",
+        "MINLENGTH": "2 characters required"			
     },
 	"DEVELOPMENT": {
         "TITLE": "Development",
         "PARAGRAPH1": "Development services for the building sector",
         "DESCRIPTIONTOP1": "It’s not enough to go with the flow to be successful in the building industry in the current business environment, but necessary to take into account the realities dictated by the customer's high requirements. This requires adjusting of the working process in the way similar to the Swiss watch mechanism work. A one-time investment in the automation of the design process based on your needs will give you the following advantages: <br> <br><b>•</b> Multiple increase in speed and efficiency of tasks execution <br><b>•</b> Minimizing of the routine tasks, which can be solved by using applications <br><b>•</b> Elimination of human error factor <br><b>•</b> Job losses <br><b>•</b> Savings on staff training <br><b>•</b> Improving the competitiveness of the company <br><br> Our specialists have a unique long-term experience in the field of construction and development of the software for the following BIM platforms: <br> <br><b>•</b> Tekla Structures <br><b>•</b> Autodesk Revit <br><b>•</b> Autodesk Robot <br><b>•</b> Dlubal Rrem <br> <br>Main part Design OÜ <br> <br><b>•</b> Will propose a range of ready-to-use products from <a href='#/app-dev/app-store'>APP Store</a> <br><b>•</b> Will develop unique solutions of any complexity within the stipulated time frame <br><b>•</b> Will assess the effectiveness of your construction design and work out an automation plan <br><b>•</b> Will propose labor input optimization" ,		
         "PARAGRAPH2": "",
-        "DESCRIPTIONTOP2": ""},
+        "DESCRIPTIONTOP2": ""
+    },
     "EDUCATION": {
         "TITLE": "Training and education",
         "PARAGRAPH": "Personalised support and training for software users",
