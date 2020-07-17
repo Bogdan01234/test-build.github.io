@@ -38,7 +38,7 @@
     "APPSTORE": {
         "PARAGRAPH1": "A set of simple utilities will enhance your ability to edit and create model objects and drawings in the Tekla Structures software.",
         "LINKTOPARAGRAPH1": "(Free download for non-commercial use)",
-        "PARAGRAPH2": "A package of tools for the effective modeling of connections of wooden structures. The logic of setting the connection parameters is perfectly harmonized with the RF JOINTS calculation module of the DLUBAL RFEM software. <br> <br> Cost - 139€",
+        "PARAGRAPH2": "A package of tools for the effective modeling of connections of wooden structures. The logic of setting the connection parameters is perfectly harmonized with the RF JOINTS calculation module of the DLUBAL RFEM software.",
         "LINKTOPARAGRAPH2": "(Free download for non-commercial use)",
         "PARAGRAPH3": "Transmission and telecommunication towers. Simple and convenient tools with a high level of automation can increase the performance of modeling transmission and telecommunication towers, reduce the number of costly errors during the manufacture and installation of structures. You will reduce your costs and optimize your production. <br> With TowerTools you will quickly create a 3D tower model, avoiding time-consuming manual work and human errors. <br> <br> Cost - 399€",
         "LINKTOPARAGRAPH3": "(Free download for non-commercial use)",
@@ -49,16 +49,17 @@
         "ADDPAYDATA": "Credit card",
         "RECEIVE": "Download",
         "LOGINREGISTER": "Sign in/ Sign up",
-        "REQUIRED": "Required",
-        "COUNTRY": "A two character country code (for example, US)",
-        "CITY":"City", 
+        "REQUIRED": "required",
+        "COUNTRY": "Country code",
+        "CITY":"City",
         "NAME":"First Name, Last Name",
         "COMPANYNAME":"Company Name",
         "STATE": "State",
-        "ADDRESS": "Address",
-        "VAT": "Vat number",
-        "REG": "Reg. number",
-        "MINLENGTH": "2 characters required"			
+        "ADDRESS": "Аddress",
+        "VAT": "VAT",
+        "REG": "Registy Code",
+        "MINLENGTH": "min 2 symbols",
+        "PAYDATA": "Billing Details"
     },
 	"DEVELOPMENT": {
         "TITLE": "Development",
@@ -76,13 +77,14 @@
     },
 	"CONTACTS": {
         "TITLE": "Main Part Design OÜ",
-        "DESCRIPTION": "<b>NAD:</b> EE101954550 <br> <b>Registration code:</b> 14097204<br> <br> <b>Tel:</b> <a href='tel: +372 555 70694'> +372 555 70694</a><br> <b>Adress:</b> Tuukri 19, 10152, Tallinn<br> <b>LHV:</b> EE547700771003059057<br> <b>E-mail:</b>",
+        "DESCRIPTION": "<b>VAT:</b> EE101954550 <br> <b>Registration code:</b> 14097204<br> <br> <b>Tel:</b> <a href='tel: +372 555 70694'> +372 555 70694</a><br> <b>Address:</b> Tuukri 19, 10152, Tallinn<br> <b>LHV:</b> EE547700771003059057<br> <b>E-mail:</b>",
         "LINK1": "<a href='mailto:support@mainpart.eu'> support@mainpart.eu</a>",
         "LINK2": "<a href='mailto:info@mainpart.eu'> info@mainpart.eu</a>"
     },	
     "LOGIN": {
         "TITLE": "Sign in",
         "PASSWORD": "PASSWORD",
+        "CONFIRMPASSWORD": "Confirm password",
         "LOGININ": "Sign in",
         "ACCOUNT": "CREATE AN ACCOUNT"
     },
